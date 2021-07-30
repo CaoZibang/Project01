@@ -13,7 +13,7 @@ public class App {
         System.out.println("hhhhh");
         System.out.println("Hello Git! hot-fix second");
         System.out.println("Hello Git! master");
-        System.out.println("Hello Git!");
+        System.out.println("Hello Git! hot-fix");
 
     }
 }
